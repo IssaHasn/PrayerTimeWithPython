@@ -1,0 +1,8 @@
+Try this in app :
+*****
+city = cairo
+country = egypt
+*****
+
+city = riyadh
+country = saudi
